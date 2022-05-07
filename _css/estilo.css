@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+* {
+    background-color: #fff;
+    color: #fff;
+}
+
+nav {
+    background-color: aqua;
+}
