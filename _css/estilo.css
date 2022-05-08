@@ -1,10 +1,27 @@
 @charset "UTF-8";
 
-* {
-    background-color: #fff;
-    color: #fff;
-}
+/* * {
+    background-color:aquamarine;
+    color: rgb(68, 85, 89);
+} */
 
 nav {
-    background-color: aqua;
+    background-color: #40026C;
 }
+
+.card {
+    background-color: #fff;
+}
+
+.card-body {
+    
+    box-shadow:0px, 0px, 2px;
+}
+
+body {
+    background-color: #D4D3D3;
+}
+/* .card-img-top{
+    width: 100px;
+    right: 100px;
+} */
