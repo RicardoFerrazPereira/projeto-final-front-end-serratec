@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(252, 252, 252);
+}
+
+.navbar {
+    background-color: #40026C;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    color: #fff;
+    margin-left: 20px;
+    
+}
+
+.d-flex button {
+    color: #fff;
+    border: #fff solid 1px;
+    margin-right: 40px;
+}
+
+.corBotao {
+    background-color: #40026C;
+}
+
+.corTexto {
+    color: #fff;
+}
+
+.espacamento-cards {
+    justify-content: space-between;
+
+}
+
+.card {
+    /* box-shadow: 1px 1px 1px 10px #40026C; */
+    box-shadow: 0 0 1em #40026C;
+    margin: 20px
+}
